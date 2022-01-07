@@ -46,18 +46,19 @@ ENHANCING SKILLS
 The third really big thing for my career and learning was projects. Projects give you insight into every stage of the development process. You'll even have to decide which tools or services you want to use and what kind of resources you need. This is one of the best ways to get exposure to a broad range of skills. When you get into a professional setting, you'll know a little about how everything works on top of your specialty.
 
 AFTERWORD
+
 Nowadays I do front-end development. I am working on remarkable projects which is again a great opportunity to learn more and to gain knowledge about different technology stacks.
 
 ---
 ### MY C0NTECT LINKS:
 
 [<img align="left" alt="sushantsharmaa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sushantsharmaa | Portfolio" width="22px" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/945b0225337909.563440870421b.png" />][portfolio]
 [<img align="left" alt="sushantsharmaa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sushantsharmaa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 ---
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushantsharmaa&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 [twitter]: https://twitter.com/sushantsharma95
-[instagram]: https://www.instagram.com/sushantsharma_/
+[portfolio]: https://sushant-sharma.netlify.app/
 [linkedin]: https://www.linkedin.com/in/sushant-sharma-2022/
