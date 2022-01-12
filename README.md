@@ -9,6 +9,8 @@
 - 🥅 2022 Goals: Getting Hired
 - ⚡ Fun fact: I love skateboarding.
 
+#### Checkout My Portfolio :- https://sushant-sharma.netlify.app/
+
 <br />  
 
 ### Languages and Tools:
@@ -52,9 +54,8 @@ Nowadays I do front-end development. I am working on remarkable projects which i
 ---
 ### MY C0NTECT LINKS:
 
-[<img align="left" alt="sushantsharmaa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sushantsharmaa | Portfolio" width="22px" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/945b0225337909.563440870421b.png" />][portfolio]
-[<img align="left" alt="sushantsharmaa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sushantsharmaa | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="sushantsharmaa | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
 ---
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushantsharmaa&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
