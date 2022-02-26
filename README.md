@@ -46,10 +46,6 @@ ENHANCING SKILLS
 
 The third really big thing for my career and learning was projects. Projects give you insight into every stage of the development process. You'll even have to decide which tools or services you want to use and what kind of resources you need. This is one of the best ways to get exposure to a broad range of skills. When you get into a professional setting, you'll know a little about how everything works on top of your specialty.
 
-AFTERWORD
-
-Nowadays I do front-end development. I am working on remarkable projects which is again a great opportunity to learn more and to gain knowledge about different technology stacks.
-
 ---
 ### MY C0NTECT LINKS:
 
