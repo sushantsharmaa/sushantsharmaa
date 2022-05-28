@@ -1,10 +1,9 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Hi there, I'm Sushant Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### I'm a Full Stack Web-Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything. 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Getting Hired
 - ⚡ Fun fact: I love skateboarding.
