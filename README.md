@@ -1,5 +1,5 @@
 
-### Hi there, I'm Sushant Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Sushant Sharma
 
 ### I'm a Full Stack Web-Developer!!
 
