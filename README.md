@@ -1,14 +1,14 @@
 
-### Hi there, I'm Sushant Sharma
+# Hey there! I'm Sushant Sharma.
 
-### I'm a Full Stack Web-Developer!!
+## Full Stack Developer || Frontend Specialist
 
 - 🌱 I’m currently learning everything. 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Getting Hired
+- 🥅 2022 Goals: Crack a job in a good company.
 - ⚡ Fun fact: I love skateboarding.
 
-#### Checkout My Portfolio :- https://sushant-sharma.netlify.app/
+## Checkout My Portfolio :- https://sushant-sharma.netlify.app/
 
 ### Languages and Tools:
 
@@ -47,7 +47,6 @@ The third really big thing for my career and learning was projects. Projects giv
 ### MY C0NTECT LINKS:
 
 [<img align="left" alt="sushantsharmaa | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="sushantsharmaa | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />][twitter]
 ---
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushantsharmaa&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
