@@ -1,7 +1,7 @@
 
 # Hey there! I'm Sushant Sharma.
 
-## Full Stack Developer || Frontend Specialist
+## A FULL STACK WED DEVELOPER 
 
 - 🌱 I’m currently learning everything. 
 - 👯 I’m looking to collaborate with other developers
