@@ -1,7 +1,7 @@
 
 # Hey there! I'm Sushant Sharma.
 
-## A FULL STACK WED DEVELOPER 
+## A FULL STACK WEB DEVELOPER 
 
 - 🌱 I’m currently learning everything. 
 - 👯 I’m looking to collaborate with other developers
