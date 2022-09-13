@@ -3,9 +3,9 @@
 
 ## A FULL STACK WEB DEVELOPER 
 
-- 🌱 I’m currently learning everything. 
+- 🌱 Frontend Web Developer At Ottermap. 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Crack a job in a good company.
+- 🥅 2022 Goals: Learn new technology.
 - ⚡ Fun fact: I love skateboarding.
 
 ## Checkout My Portfolio :- https://sushant-sharma.netlify.app/
