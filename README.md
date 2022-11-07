@@ -3,6 +3,14 @@
 
 ## I'm Sushant Sharma.
 
+### Get in touch with me here.
+
+[<img align="left" alt="sushantsharmaa | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
+<br />
+
+---
+
 ### Tools and Technologies:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -36,14 +44,6 @@ AFTERWORD
 
 Nowadays, I am working as a front-end web developer at Ottermap. It is a product-based company. We have a remarkable product to serve the companies which work in the Landscaping Industry in the USA. It is again a great opportunity to learn more and to gain knowledge about different technology stacks.
 
----
-### MY C0NTECT LINKS:
+<img src="https://github-readme-stats.vercel.app/api?username=sushantsharmaa&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-[<img align="left" alt="sushantsharmaa | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
----
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushantsharmaa&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-[twitter]: https://twitter.com/sushantsharma95
-[portfolio]: https://sushant-sharma.netlify.app/
 [linkedin]: https://www.linkedin.com/in/sushant-sharma-2022/
