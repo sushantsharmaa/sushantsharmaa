@@ -1,8 +1,6 @@
 
 # Hey there! I'm Sushant Sharma.
 
-## A FULL STACK WEB DEVELOPER 
-
 - 🌱 Frontend Web Developer At Ottermap. 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn new technology.
