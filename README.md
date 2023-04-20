@@ -3,14 +3,14 @@
 
 ## I'm Sushant Sharma.
 
-### Get in touch with me here.
+<!-- ### Get in touch with me here.
 
 [<img align="left" alt="sushantsharmaa | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 [<img align="left" alt="sushantsharmaa | Portfolio" width="27px" src="https://static.vecteezy.com/system/resources/thumbnails/004/607/791/small/man-face-emotive-icon-smiling-male-character-in-blue-shirt-flat-illustration-isolated-on-white-happy-human-psychological-portrait-positive-emotions-user-avatar-for-app-web-design-vector.jpg" />][portfolio]
 
 <br />
-
+ -->
 ---
 
 <!-- ### Tools and Technologies: -->
