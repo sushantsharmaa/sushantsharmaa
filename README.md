@@ -44,10 +44,10 @@ The third really big thing for my career and learning was projects. Projects giv
 
 AFTERWORD
 
-Nowadays, I am working as a front-end web developer at Ottermap. It is a product-based company. We have a remarkable product to serve the companies which work in the Landscaping Industry in the USA. It is again a great opportunity to learn more and to gain knowledge about different technology stacks. -->
+Nowadays, I am working as a front-end web developer at Ottermap. It is a product-based company. We have a remarkable product to serve the companies which work in the Landscaping Industry in the USA. It is again a great opportunity to learn more and to gain knowledge about different technology stacks. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sushantsharmaa&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 [portfolio]: https://sushant-sharma.netlify.app/
 [linkedin]: https://www.linkedin.com/in/sushant-sharma-2022/
-
+-->
